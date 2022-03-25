@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/practice_react_sass_bootstrap-/static/css/main.a9f05961.css",
-    "main.js": "/practice_react_sass_bootstrap-/static/js/main.44d4e013.js",
-    "static/media/programmer.jpg": "/practice_react_sass_bootstrap-/static/media/programmer.8f1f78ff839b24a94200.jpg",
+    "main.css": "/practice_react_sass_bootstrap-/static/css/main.eddbd745.css",
+    "main.js": "/practice_react_sass_bootstrap-/static/js/main.9a7e7fd2.js",
+    "static/media/programmer.jpg": "/practice_react_sass_bootstrap-/static/media/programmer.ec1f5fd2cb6d40cc5682.jpg",
+    "static/media/bg.jpg": "/practice_react_sass_bootstrap-/static/media/bg.391b8375ec1876b86d0c.jpg",
     "index.html": "/practice_react_sass_bootstrap-/index.html",
-    "main.a9f05961.css.map": "/practice_react_sass_bootstrap-/static/css/main.a9f05961.css.map",
-    "main.44d4e013.js.map": "/practice_react_sass_bootstrap-/static/js/main.44d4e013.js.map"
+    "main.eddbd745.css.map": "/practice_react_sass_bootstrap-/static/css/main.eddbd745.css.map",
+    "main.9a7e7fd2.js.map": "/practice_react_sass_bootstrap-/static/js/main.9a7e7fd2.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9f05961.css",
-    "static/js/main.44d4e013.js"
+    "static/css/main.eddbd745.css",
+    "static/js/main.9a7e7fd2.js"
   ]
 }
